@@ -1,0 +1,19 @@
+{
+  "name": "blockchain",
+  "version": "1.0.0",
+  "description": "This is a blockchain I'm developing in JavaScript to learn more about blockchains.",
+  "main": "blockchain.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "blockchain"
+  },
+  "author": "Jack Grodnick",
+  "license": "ISC",
+  "dependencies": {
+    "crypto-js": "^4.0.0",
+    "elliptic": "^6.5.4"
+  }
+}
